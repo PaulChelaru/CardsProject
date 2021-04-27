@@ -1,18 +1,4 @@
 # CardsProject
-Cerințe comune tuturor temelor:
-
-
-3.
-4. –
-5.Meniu interactiv
-
-Se dau clasele:
-
-
--
-
-
-
 <h2> Cerinte comune tuturor temelor: </h2>
 <ul>
 <li>Toate clasele vor conține obligatoriu constructori de inițializare, parametrizați și de copiere; destructor; operatorii „=”, „>>”„ <<” supraîncărcați corespunzător, moșteniri & encapsulare</li>
@@ -30,5 +16,4 @@ Se dau clasele:
  <li>Card_standard (int limitaExtragere, double comisionDepasireLimita) : Card</li>
  <li>Card premium (double cashback) : Card_Standard</li>
 </ul>
-<p> Sa permiteti printr-o metoda sa extrageti bani de pe un card. Sa se verifice ca aceasta suma sa nu fiemai mare decat creditul. Sa se modifice creditul la extragere in functie de card standard saupremium. Daca depaseste limita cardului standard atunci se aplica comisionul pentru diferenta debani. Daca se extrage de pe un card premium sa primeasca inapoi cashback/100 * suma retrasa.
- </p>
+<p> Sa permiteti printr-o metoda sa extrageti bani de pe un card. Sa se verifice ca aceasta suma sa nu fiemai mare decat creditul. Sa se modifice creditul la extragere in functie de card standard saupremium. Daca depaseste limita cardului standard atunci se aplica comisionul pentru diferenta debani. Daca se extrage de pe un card premium sa primeasca inapoi cashback/100 * suma retrasa. </p>
